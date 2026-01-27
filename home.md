@@ -2,7 +2,7 @@
 title: README
 description: Build your own "DIY" Bitcoin & Lightning node, and other stuff on a personal computer. No need to trust anyone else.
 published: true
-date: 2026-01-27T07:42:19.936Z
+date: 2026-01-27T07:47:38.695Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T07:42:19.936Z
@@ -12,8 +12,7 @@ dateCreated: 2026-01-27T07:42:19.936Z
 
 [![Forks](https://img.shields.io/github/forks/minibolt-guide/minibolt.svg?style=for-the-badge)](https://github.com/minibolt-guide/minibolt/network/members) [![Stargazers](https://img.shields.io/github/stars/minibolt-guide/minibolt.svg?style=for-the-badge)](https://github.com/minibolt-guide/minibolt/stargazers) [![MIT License](https://img.shields.io/github/license/minibolt-guide/minibolt.svg?style=for-the-badge)](https://raw.githubusercontent.com/minibolt-guide/minibolt/main/LICENSE) [![Contributors](https://img.shields.io/github/contributors/minibolt-guide/minibolt.svg?style=for-the-badge)](https://github.com/minibolt-guide/minibolt/graphs/contributors) [![Issues](https://img.shields.io/github/issues/minibolt-guide/minibolt.svg?style=for-the-badge)](https://github.com/minibolt-guide/minibolt/issues) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/minibolt-guide/minibolt?label=latest%20release)](https://github.com/minibolt-guide/minibolt/releases) [![GitHub followers](https://img.shields.io/github/followers/minibolt-guide)](https://github.com/orgs/minibolt-guide/followers) [![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge\&utm_medium=organic\&utm_campaign=preview_documentation\&utm_content=link)
 
-<figure><img src=".gitbook/assets/minibolt-home-screen-og.png" alt=""><figcaption></figcaption></figure>
-
+![photo_2026-01-27_08-48-50.jpg](/resources/photo_2026-01-27_08-48-50.jpg)
 ## What is the MiniBolt?
 
 With this guide, you can set up a Bitcoin, Lightning node, and other stuff on a personal computer, doing everything yourself. You will learn about Linux, Bitcoin, Lightning, and much more.
