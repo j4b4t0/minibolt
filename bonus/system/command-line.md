@@ -2,7 +2,7 @@
 title: Pimp the CLI
 description: 
 published: true
-date: 2026-01-28T07:49:50.689Z
+date: 2026-01-28T07:51:09.316Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T07:20:15.553Z
@@ -88,6 +88,5 @@ sudo mv bitcoind.bash bitcoin-cli.bash lncli.bash-completion /etc/bash_completio
 ```
 {% endcode %}
 
-{% hint style="info" %}
-Bash completion will be enabled after your next login
-{% endhint %}
+>Bash completion will be enabled after your next login
+{.is-success}
