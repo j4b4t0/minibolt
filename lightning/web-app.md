@@ -2,7 +2,7 @@
 title: Web app
 description: 
 published: true
-date: 2026-01-28T07:26:33.062Z
+date: 2026-01-28T07:34:18.097Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T07:19:39.786Z
@@ -174,9 +174,8 @@ Primary key fingerprint: 3C8A 01A8 344B 66E7 875C  E553 4403 F1DF BE77 9457
 
 * Install all dependencies and the necessary modules using NPM
 
-::: warning
-**Not to run** the `npm audit fix` command, which could break the original code!!
-:::
+> **Not to run** the `npm audit fix` command, which could break the original code!!
+{.is-warning}
 
 ```sh
 npm install
