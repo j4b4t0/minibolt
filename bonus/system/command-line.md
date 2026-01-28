@@ -2,7 +2,7 @@
 title: Pimp the CLI
 description: 
 published: true
-date: 2026-01-28T07:49:27.208Z
+date: 2026-01-28T07:49:50.689Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T07:20:15.553Z
@@ -11,10 +11,6 @@ dateCreated: 2026-01-27T07:20:15.553Z
 # Pimp the command line
 
 In this section, we are going to do instructions for changing the prompt "$" symbol to the Bitcoin symbol "₿" and color and install bash completion scripts for Bitcoin Core and Lightning projects command CLI instructions.
-
-{% hint style="success" %}
-Difficulty: Easy
-{% endhint %}
 
 > Difficulty: Easy
 {.is-success}
