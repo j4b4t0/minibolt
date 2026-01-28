@@ -2,7 +2,7 @@
 title: Web app
 description: 
 published: true
-date: 2026-01-28T07:18:58.790Z
+date: 2026-01-28T07:25:45.416Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T07:19:39.786Z
@@ -50,9 +50,9 @@ npm -v
 ```
 8.19.3
 ```
-::: info
--> If the "`node -v"` output is **`>=18`**, you can move to the next section.
-:::
+
+> If the "`node -v"` output is **`>=18`**, you can move to the next section.
+{.is-info}
 
 -> If Nodejs is not installed (`-bash: /usr/bin/node: No such file or directory`), follow this [Node + NPM bonus guide](../bonus/system/nodejs-npm.md) to install it
 {% endhint %}
