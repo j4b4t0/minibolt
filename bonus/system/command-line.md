@@ -1,9 +1,11 @@
 ---
 title: Pimp the CLI
-parent: + System
-grand_parent: Bonus Section
-nav_exclude: true
-has_toc: false
+description: 
+published: true
+date: 2026-01-28T07:49:27.208Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-27T07:20:15.553Z
 ---
 
 # Pimp the command line
@@ -13,6 +15,9 @@ In this section, we are going to do instructions for changing the prompt "$" sym
 {% hint style="success" %}
 Difficulty: Easy
 {% endhint %}
+
+> Difficulty: Easy
+{.is-success}
 
 ### Command prompt
 
