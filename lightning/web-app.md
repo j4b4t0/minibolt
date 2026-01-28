@@ -1,7 +1,11 @@
 ---
 title: Web app
-nav_order: 30
-parent: Lightning
+description: 
+published: true
+date: 2026-01-28T07:18:58.790Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-27T07:19:39.786Z
 ---
 
 # 3.3 Web app: ThunderHub
@@ -46,9 +50,9 @@ npm -v
 ```
 8.19.3
 ```
-
-{% hint style="info" %}
+::: info
 -> If the "`node -v"` output is **`>=18`**, you can move to the next section.
+:::
 
 -> If Nodejs is not installed (`-bash: /usr/bin/node: No such file or directory`), follow this [Node + NPM bonus guide](../bonus/system/nodejs-npm.md) to install it
 {% endhint %}
@@ -80,11 +84,9 @@ server {
 
 * Create the symbolic link that points to the directory `sites-enabled`
 
-{% code overflow="wrap" %}
 ```bash
 sudo ln -s /etc/nginx/sites-available/thunderhub-reverse-proxy.conf /etc/nginx/sites-enabled/
 ```
-{% endcode %}
 
 * Test Nginx configuration
 
@@ -149,11 +151,9 @@ curl https://github.com/apotdevin.gpg | gpg --import
 
 * Download the source code directly from GitHub, select the latest release branch associated, and go to the `thunderhub` folder
 
-{% code overflow="wrap" %}
 ```sh
 git clone --branch v$VERSION https://github.com/apotdevin/thunderhub.git && cd thunderhub
 ```
-{% endcode %}
 
 * Verify the release
 
@@ -174,9 +174,9 @@ Primary key fingerprint: 3C8A 01A8 344B 66E7 875C  E553 4403 F1DF BE77 9457
 
 * Install all dependencies and the necessary modules using NPM
 
-{% hint style="warning" %}
+::: warning
 **Not to run** the `npm audit fix` command, which could break the original code!!
-{% endhint %}
+:::
 
 ```sh
 npm install
@@ -228,7 +228,10 @@ npm notice
 
 </details>
 
-{% hint style="info" %}
+::: info
+If the `node -v` output is **>=18**, you can move to the next section.
+:::
+
 **(Optional)** Improve your privacy by opting out of Next.js [telemetry](https://nextjs.org/telemetry)
 
 ```bash
